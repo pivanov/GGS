@@ -1,0 +1,24 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  color: #fff;
+  font-size: 1em;
+	line-height: 1.5;
+  font-family: Arial, Tahoma, Verdana, sans-serif;
+  background: #ccc;
+}
+
+#ggs {
+	width:480px;
+	height:800px;
+	overflow:hidden;
+	margin:30px auto 0;
+	background: #fff url(../img/grid.png);
+	box-shadow: 0 0 14px hsla(0,0%,0%,.4);
+}
+
+div {
+	text-align: center;
+	background: #369ace;
+}
